@@ -1,6 +1,5 @@
 # bitclass
 
-## 22.12.05
 강사 : 김영조    
 bit01class@gmail.com
 
