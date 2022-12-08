@@ -1,7 +1,9 @@
 # bitclass
 
 강사 : 김영조    
-bit01class@gmail.com
+bit01class@gmail.com    
+강의 소스 코드    
+https://github.com/bit01class/busan2java
 
 수업 일정
 JAVA - 72시간    
