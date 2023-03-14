@@ -26,3 +26,6 @@ frontend - html css javascript jquery DOM 직접제어가 가능해야함
 backend - jsp servlet    
 framework - spring regacy(boot가능할수도있지만 확정은아님) ORM은 mybatis, node.js , react    
 cloud - 금융권이기때문에 private한 방식을 따로 배울 것이다. 가상화 오케스트레이션 쿠버네티스까지    
+
+
+![QR](https://user-images.githubusercontent.com/87006912/224948661-6c425d6d-4c41-4eea-bc77-951155c19499.png)
