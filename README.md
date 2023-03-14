@@ -3,7 +3,7 @@
 강사 : 김영조    
 bit01class@gmail.com    
 강의 소스 코드    
-https://github.com/bit01class/busan2java
+https://github.com/bit01class/busan2java   
 https://github.com/bit01class/busan2web
 
 수업 일정
